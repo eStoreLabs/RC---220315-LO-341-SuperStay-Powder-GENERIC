@@ -6,7 +6,7 @@
 
 <!-- please enter link to site preview here -->
 
-[Project live site]()
+[Project live site](https://estorelabs.github.io/RC---220315-LO-341-SuperStay-Powder-GENERIC/)
 
 ## PROJECT PREVIEW
 
