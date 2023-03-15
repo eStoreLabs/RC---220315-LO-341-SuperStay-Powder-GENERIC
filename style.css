@@ -481,6 +481,7 @@ body {
   transition: all 0.3s;
 }
 #es-maybelline.es-maybelline .es-cross__subtitle {
+  font-weight: 500;
   min-height: 30px;
 }
 #es-maybelline.es-maybelline .es-cross__name {
