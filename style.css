@@ -44,6 +44,9 @@ body {
 #es-maybelline.es-maybelline .es-section__title span {
   font-weight: 300;
 }
+#es-maybelline.es-maybelline .es-section__title sup {
+  font-size: 24px;
+}
 #es-maybelline.es-maybelline .es-section--under {
   position: relative;
 }
